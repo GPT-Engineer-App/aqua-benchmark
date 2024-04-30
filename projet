@@ -1,0 +1,16 @@
+/my-water-benchmarking-app
+|-- pages
+|   |-- _app.js
+|   |-- index.js
+|-- components
+|   |-- Header.js
+|   |-- Footer.js
+|-- lib
+|   |-- db.js
+|-- styles
+|   |-- Header.module.css
+|   |-- Footer.module.css
+|-- public
+|-- .env.local
+|-- next.config.js
+|-- package.json
